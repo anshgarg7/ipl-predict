@@ -1,8 +1,6 @@
-# IPL Score Predictor :india:
-![GIF](readme_resources/ipl_teams.jpg)
+# IPL Score Predictor
 
 #### The IPL Score Predictor project is about predicting score of batting team.
-#### This web application have IPL 2021 teams where you can predict score of batting team.
 
 ## Overview
 - I have IPL matches records from year 2008 to 2020.
@@ -23,12 +21,11 @@
 
 ## Demo
 - I have deployed this on Heroku platform
-Link: [https://ipl-jaysoftic.herokuapp.com/](https://ipl-jaysoftic.herokuapp.com/)
+![1](https://user-images.githubusercontent.com/42098930/137585332-426e6ec5-31db-458a-88fb-d6217250523c.png)
+![2](https://user-images.githubusercontent.com/42098930/137585338-983db047-bd0b-4bd5-871a-11eeba546ab5.png)
 
-![GIF](readme_resources/IPL.gif)
+Link: [http://ipl-predict1.herokuapp.com/](http://ipl-predict1.herokuapp.com/)
 
-## How to use
-- Select venue, batting team, bowling tean and fill the inputs with proper information then click on predict button you will get predicted score of batting team.
 
 ## Technologies Used
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -42,14 +39,3 @@ Link: [https://ipl-jaysoftic.herokuapp.com/](https://ipl-jaysoftic.herokuapp.com
 <code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png"></code>
-
-## Team
-[![Jay Soni](https://avatars3.githubusercontent.com/u/49163967?s=400&u=be22bbe1409ff51991b04026f038c1373174a02a&v=4)](https://in.linkedin.com/in/jaysoftic) |
--|
-[Jay Soni](https://in.linkedin.com/in/jaysoftic) |)
-
-## Credits
-- Entire credits goes to My God
-
-## 
-- If you like my work and it helped you in anyway then please do ⭐ the repository it will motivate me to make more amazing projects
