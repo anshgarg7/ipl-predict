@@ -1,5 +1,5 @@
 flask
 pandas
-numpy
+numpy==1.11.0
 pickle-mixin
 scikit-learn==0.21.3
